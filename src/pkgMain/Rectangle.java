@@ -18,5 +18,6 @@ public class Rectangle {
 	public double Area()
 	{
 		return getLength()*getWidth();
+		
 	}	
 }
